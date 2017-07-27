@@ -319,24 +319,56 @@ background-color:  #fff2e6
 }
 
 #p1 {
-width: 65%;
+width: 70%;
 margin-left: 13%;
+display: flex;
+justify-content: space-around;
+flex-direction: row;
+}
+
+#para1 {
+width: 45%;
 text-align: center;
+padding-left: -100px;
+}
+
+#imageP1 {
+	background-image: url("./images/enigma.JPG");
+	width: 300px;
+	height: 213px;
+	background-size: contain;
+  background-repeat: no-repeat;
+	align-items: center;
 }
 
 #p2 {
-width: 65%;
+width: 70%;
 margin-left: 13%;
 text-align: center;
 
 }
 
-
 #p3 {
-width: 65%;
+width: 70%;
 margin-left: 13%;
-text-align: center;
+display: flex;
+justify-content: space-around;
+flex-direction: row;
+}
 
+#para3 {
+width: 45%;
+text-align: center;
+padding-left: -100px;
+}
+
+#imageP3 {
+	background-image: url("./images/officehour.png");
+	width: 300px;
+	height: 213px;
+	background-size: contain;
+  background-repeat: no-repeat;
+	align-items: center;
 }
 
 #p4 {
@@ -345,14 +377,50 @@ margin-left: 13%;
 text-align: center;
 }
 
+
 #p5 {
-width: 65%;
+width: 70%;
 margin-left: 13%;
-text-align: center;
+display: flex;
+justify-content: space-around;
+flex-direction: row;
 }
 
-#p6 {
-width: 65%;
-margin-left: 13%;
+#para5 {
+width: 45%;
 text-align: center;
+padding-left: -100px;
+}
+
+#imageP5 {
+	background-image: url("./images/gesn.JPG");
+	width: 300px;
+	height: 213px;
+	background-size: contain;
+  background-repeat: no-repeat;
+	align-items: center;
+}
+
+
+#p6 {
+width: 70%;
+margin-left: 13%;
+display: flex;
+justify-content: space-around;
+flex-direction: row;
+}
+
+#para6 {
+width: 45%;
+text-align: center;
+padding-left: -100px;
+}
+
+#imageP6 {
+	background-image: url("./images/cartwheel.jpg");
+	width: 300px;
+	height: 213px;
+	background-size: contain;
+  background-repeat: no-repeat;
+	align-items: center;
 }
