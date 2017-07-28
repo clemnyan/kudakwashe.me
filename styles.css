@@ -1,7 +1,7 @@
 #intro {
 	height: 100vh;
 	color: white;
-	margin-right: -110px;
+	margin-right: -100px;
 	background-image: url("./images/clement.jpg");
 	background-size: contain;
   background-repeat: no-repeat;
@@ -154,14 +154,14 @@ padding-right: 100px;
 #workExperience {
 	height: 1050px;
 	background: white;
-	margin-right: -110px;
+	margin-right: -100px;
 	margin-top: -300px;
 }
 
 
 #padd {
 	height: 100px;
-	margin-right: -110px;
+	margin-right: -100px;
 }
 
 #aa{
@@ -312,7 +312,7 @@ padding-right: 100px;
 #Projects {
 	height: 2300px;
 	background-color: 	 #e6e6e6;
-	margin-right: -110px;
+	margin-right: -100px;
 	font-family: 'Merriweather', serif;
   font-size: 90%;
 }
