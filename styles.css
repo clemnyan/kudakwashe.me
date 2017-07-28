@@ -1,7 +1,7 @@
 #intro {
-	height: 900px;
+	height: 800px;
 	color: white;
-	margin-right: -150px;
+	margin-right: -110px;
 	background-image: url("./images/clement.jpg");
 	background-size: contain;
   background-repeat: no-repeat;
@@ -55,7 +55,7 @@ margin-left: 3%;
 text-align: center;
 margin-top: 50px;
 height: 250px;
-background-color:rgba(0, 77, 26, 0.7);
+background-color:rgba(0, 77, 26, 0.4);
 border-radius: 40px;
 }
 
@@ -128,7 +128,7 @@ padding-right: 100px;
 
 .vertical-menu {
     width: 150px;
-		margin-top: -800px;
+		margin-top: -700px;
 		position: fixed; /* Set the navbar to fixed position */
 }
 
@@ -153,14 +153,14 @@ padding-right: 100px;
 #workExperience {
 	height: 1050px;
 	background: white;
-	margin-right: -150px;
+	margin-right: -110px;
 	margin-top: -300px;
 }
 
 
 #padd {
 	height: 100px;
-	margin-right: -150px;
+	margin-right: -110px;
 }
 
 #aa{
@@ -311,7 +311,7 @@ padding-right: 100px;
 #Projects {
 	height: 2300px;
 	background-color: 	 #e6e6e6;
-	margin-right: -150px;
+	margin-right: -110px;
 	font-family: 'Merriweather', serif;
   font-size: 90%;
 }
