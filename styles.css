@@ -176,7 +176,7 @@ background-color:  #fff2e6
 }
 
 #we1 a:nth-of-type(1) {
-	background-image: url("./images/Capture.jpg");
+	background-image: url("./images/Capture.JPG");
 	background-size: cover;
 	height: 100px;
 	width: 200px;
@@ -303,7 +303,7 @@ background-color:  #fff2e6
 }
 
 #Projects {
-	height: 1300px;
+	height: 2100px;
 	background-color: 	 #e6e6e6;
 	margin-right: -100px;
 	font-family: 'Merriweather', serif;
@@ -315,112 +315,152 @@ background-color:  #fff2e6
 	text-align: center;
 	font-size: 26px;
 	width: 90%;
-	padding-bottom: 40px;
+	padding-left: 20px;
 }
 
 #p1 {
 width: 70%;
-margin-left: 13%;
+margin-left: 8%;
 display: flex;
 justify-content: space-around;
 flex-direction: row;
+background-color: 	rgb(192,192,192);
+
 }
 
 #para1 {
 width: 45%;
-text-align: center;
+text-align: left;
 padding-left: -100px;
+
 }
 
 #imageP1 {
 	background-image: url("./images/enigma.JPG");
-	width: 300px;
-	height: 213px;
+	width: 350px;
+	height: 270px;
 	background-size: contain;
   background-repeat: no-repeat;
-	align-items: center;
+	margin-left: -30px;
+	margin-top: 20px;
 }
 
 #p2 {
 width: 70%;
-margin-left: 13%;
-text-align: center;
+margin-left: 8%;
+text-align: left;
+background-color: 	rgb(192,192,192);
+
 
 }
 
 #p3 {
 width: 70%;
-margin-left: 13%;
+margin-left: 8%;
 display: flex;
 justify-content: space-around;
 flex-direction: row;
+background-color: 	rgb(192,192,192);
+
 }
 
 #para3 {
 width: 45%;
-text-align: center;
+text-align: left;
 padding-left: -100px;
 }
 
 #imageP3 {
 	background-image: url("./images/officehour.png");
-	width: 300px;
-	height: 213px;
+	width: 350px;
+	height: 270px;
 	background-size: contain;
   background-repeat: no-repeat;
-	align-items: center;
+	margin-left: -30px;
+	margin-top: 20px;
 }
 
 #p4 {
-width: 65%;
-margin-left: 13%;
-text-align: center;
+width: 70%;
+margin-left: 8%;
+text-align: left;
+background-color: 	rgb(192,192,192);
+
 }
 
 
 #p5 {
 width: 70%;
-margin-left: 13%;
+margin-left: 8%;
 display: flex;
 justify-content: space-around;
 flex-direction: row;
+background-color: 	rgb(192,192,192);
+
 }
 
 #para5 {
 width: 45%;
-text-align: center;
+text-align: left;
 padding-left: -100px;
 }
 
 #imageP5 {
 	background-image: url("./images/gesn.JPG");
-	width: 300px;
-	height: 213px;
+	width: 350px;
+	height: 270px;
 	background-size: contain;
   background-repeat: no-repeat;
-	align-items: center;
+	margin-left: -30px;
+	margin-top: 20px;
+	padding-bottom: 20px;
 }
 
 
 #p6 {
 width: 70%;
-margin-left: 13%;
+margin-left: 8%;
 display: flex;
 justify-content: space-around;
 flex-direction: row;
+background: 	rgb(192,192,192);
 }
 
 #para6 {
 width: 45%;
-text-align: center;
+text-align: left;
 padding-left: -100px;
 }
 
 #imageP6 {
 	background-image: url("./images/cartwheel.jpg");
-	width: 300px;
-	height: 213px;
+	width: 350px;
+	height: 270px;
 	background-size: contain;
   background-repeat: no-repeat;
-	align-items: center;
+	margin-left: -30px;
+	margin-top: 20px;
+	padding-bottom: 10px;
+}
+
+.detail {
+	text-align: center;
+	margin-left: -100px;
+}
+
+.maincomp {
+
+	border: 2px;
+	border-radius: 4px;
+}
+
+.moredetail {
+	padding-top: 30px;
+	text-align: center;
+	margin-left: -100px;
+	font-weight: bold;
+}
+
+.outerdiv {
+padding:5px;
 }
