@@ -44,15 +44,11 @@
  padding-top: 20px;
 }
 
-mainList a {
-	color: white;
-}
-
 
 
 #main12 {
 width: 25%;
-margin-left: 3%;
+margin-left: 2%;
 text-align: center;
 margin-top: 50px;
 height: 250px;
@@ -98,15 +94,19 @@ padding-right: 100px;
 }
 
 #a1{
-	font-size: 25px;
+	margin-left: -30px;
+	font-size: 27px;
+	color: white;
 }
 
 #a2 {
 	font-size: 25px;
+	color: white;
 }
 
 #a3 {
 	font-size: 25px;
+	color: white;
 }
 
 .fa:hover {
@@ -168,7 +168,7 @@ padding-right: 100px;
 	padding-top: 40px;
 	text-align: center;
 	font-size: 26px;
-	width: 90%;
+
 }
 
 
