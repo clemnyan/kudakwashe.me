@@ -2,7 +2,7 @@
 	height: 380px;
 	color: white;
 	background-color: #4d4d4d;
-	margin-right: -100px;
+	margin-right: -150px;
 
 }
 
@@ -303,9 +303,9 @@ background-color:  #fff2e6
 }
 
 #Projects {
-	height: 2100px;
+	height: 2300px;
 	background-color: 	 #e6e6e6;
-	margin-right: -100px;
+	margin-right: -150px;
 	font-family: 'Merriweather', serif;
   font-size: 90%;
 }
@@ -445,7 +445,8 @@ padding-left: -100px;
 
 .detail {
 	text-align: center;
-	margin-left: -100px;
+	margin-left: -140px;
+
 }
 
 .maincomp {
@@ -457,8 +458,9 @@ padding-left: -100px;
 .moredetail {
 	padding-top: 30px;
 	text-align: center;
-	margin-left: -100px;
+	margin-left: -140px;
 	font-weight: bold;
+
 }
 
 .outerdiv {
