@@ -1,10 +1,11 @@
 #intro {
-	height: 800px;
+	height: 100vh;
 	color: white;
 	margin-right: -110px;
 	background-image: url("./images/clement.jpg");
 	background-size: contain;
   background-repeat: no-repeat;
+	margin-bottom: 100px;
 
 }
 
