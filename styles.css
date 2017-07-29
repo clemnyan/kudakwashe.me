@@ -136,7 +136,7 @@ padding-right: 100px;
 .vertical-menu a {
     background-color: #38462a;
     color: white;
-		height: 60px;
+		height: 90px;
     display: block;
     padding: 12px;
     text-decoration: none;
@@ -476,5 +476,31 @@ padding:5px;
 
 
 #Activities {
-	height: 1000px;
+	height: 750px;
+}
+
+.mySlides {
+	width: 400px;
+	height: 300px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#slide {
+	width: 30%;
+	display: flex;
+	justify-content: center;
+	margin-left: 40%;
+}
+
+#cc {
+	font-size: 20px;
+	text-align: center;
+	padding-top: 100px;
+	padding-left: 140px;
+	padding-bottom: 100px;
+}
+
+#a5 {
+	color: black;
 }
